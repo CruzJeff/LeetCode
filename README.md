@@ -2,9 +2,11 @@
 my solutions to LeetCode problems
 
 ## Problems Solved:
-
-  Python:
-          Easy:
+```
+    Python:
+       
+  
+              Easy:
               Problem 1: Two Sum
               Problem 7: Reverse Integer
               Problem 9: Palindrome Number
@@ -12,27 +14,30 @@ my solutions to LeetCode problems
               Problem 326: Power of Three
               Problem 783: Minimum Distance Between BST Nodes
               
-          Intermediate:
+              Intermediate:
               Problem 2: AddTwoNumbers
           
-          Hard:
+              Hard:
               Problem 41: First Missing Positive
               Problem 65: Valid Number
    
-   C++:
+              
    
-          Easy:
+     C++:
+   
+              Easy:
               Problem 326: Power of Three
           
-          Intermediate:
+             Intermediate:
           
-          Hard:
+              Hard:
    
-   SQL:
-          Easy:
+     SQL:
+              Easy:
               Problem 175: Combine Two Tables
           
-          Intermediate:
+              Intermediate:
           
-          Hard:
+              Hard:
         
+```
