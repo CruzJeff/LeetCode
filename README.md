@@ -1,7 +1,7 @@
 # LeetCode
 my solutions to LeetCode problems
 
-##Problems Solved:
+## Problems Solved:
 
   Python:
           Easy:
