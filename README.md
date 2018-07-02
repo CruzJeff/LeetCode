@@ -30,7 +30,7 @@ https://leetcode.com/problemset/all/
               Problem 326: Power of Three
               Problem 771: Jewels and Stones
           
-             Intermediate:
+              Intermediate:
           
               Hard:
    
