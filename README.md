@@ -27,6 +27,7 @@ https://leetcode.com/problemset/all/
      C++:
    
               Easy:
+              Problem 258: Add Digits
               Problem 326: Power of Three
               Problem 771: Jewels and Stones
           
